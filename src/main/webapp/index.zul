@@ -1,0 +1,6 @@
+<window title="Mi Archivo excel de Colaboradores"
+            height="100%" width="100%">
+    <spreadsheet src="/Archivo.xlsx"
+     vflex="1" hflex="1" maxVisibleRows="150" maxVisibleColumns="40"
+     showToolbar="true" showSheetbar="true" showFormulabar="true" showContextMenu="true"/>
+</window>
